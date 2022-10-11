@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container{
+    background-color: #d9ead3;
+    background-size: cover;
+    height: 100vh;
+    width: 250px;
+}
+.main-heading{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    
+    }
+    .paragarph{
+        font-weight: 800px;
+        font-family: "Roboto";
+        padding: 8px;
+        font-size: 16px;
+    }
+    .middle-paragarph{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding: 24px;
+        text-align: center;
+        font-size: 25px;
+    }
+    .button-container{
+        text-align: center;
+    }
+   .button{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    height: 45px;
+    width: 200px;
+    border-radius: 20px;
+    border-width: 0px;
+    font-size: 25px;
+    
+   }
+    .button-blue{
+    background-color:blue;
+    
+   }
+   .bottom-last{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 6px;
+   }
